@@ -1,0 +1,30 @@
+c:\users\umer\documents\visual studio 2013\Projects\Alfalah\Alfalah\bin\Alfalah.dll.config
+c:\users\umer\documents\visual studio 2013\Projects\Alfalah\Alfalah\bin\Alfalah.dll
+c:\users\umer\documents\visual studio 2013\Projects\Alfalah\Alfalah\bin\Alfalah.pdb
+c:\users\umer\documents\visual studio 2013\Projects\Alfalah\Alfalah\obj\Debug\Alfalah.dll
+c:\users\umer\documents\visual studio 2013\Projects\Alfalah\Alfalah\obj\Debug\Alfalah.pdb
+c:\users\umer\documents\visual studio 2013\Projects\Alfalah\Alfalah\obj\Debug\Alfalah.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Alfalah\Alfalah\bin\Alfalah.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Alfalah\Alfalah\bin\Alfalah.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Alfalah\Alfalah\bin\Alfalah.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Alfalah\Alfalah\obj\Debug\Alfalah.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Alfalah\Alfalah\obj\Debug\Alfalah.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Alfalah\Alfalah\obj\Debug\Alfalah.pdb
+C:\Users\Umer\Desktop\Alfalah\Alfalah\bin\Alfalah.dll.config
+C:\Users\Umer\Desktop\Alfalah\Alfalah\bin\Alfalah.dll
+C:\Users\Umer\Desktop\Alfalah\Alfalah\bin\Alfalah.pdb
+C:\Users\Umer\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.csprojResolveAssemblyReference.cache
+C:\Users\Umer\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.dll
+C:\Users\Umer\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.pdb
+C:\Users\Administrator\Desktop\Alfalah\Alfalah\bin\Alfalah.dll.config
+C:\Users\Administrator\Desktop\Alfalah\Alfalah\bin\Alfalah.dll
+C:\Users\Administrator\Desktop\Alfalah\Alfalah\bin\Alfalah.pdb
+C:\Users\Administrator\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.dll
+C:\Users\Administrator\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.pdb
+C:\Users\Jahangir\Desktop\Alfalah\Alfalah\bin\Alfalah.dll.config
+C:\Users\Jahangir\Desktop\Alfalah\Alfalah\bin\Alfalah.dll
+C:\Users\Jahangir\Desktop\Alfalah\Alfalah\bin\Alfalah.pdb
+C:\Users\Jahangir\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.csprojResolveAssemblyReference.cache
+C:\Users\Jahangir\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.dll
+C:\Users\Jahangir\Desktop\Alfalah\Alfalah\obj\Debug\Alfalah.pdb
